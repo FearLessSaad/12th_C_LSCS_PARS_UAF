@@ -9,7 +9,7 @@ LABORTARIAN SCORPIONS
 +++++++++++++++++++++++++++++++++++++++++
 # Other Developers
 # Atiq-UR-Rehman
-# Umar Fareeq
-# Umar
+# Umar Farooq S/O Javaid Iqbal
+# Umar Farooq
 # Abu-Bakar
 +++++++++++++++++++++++++++++++++++++++++
