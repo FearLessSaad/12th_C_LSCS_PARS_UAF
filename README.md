@@ -2,9 +2,8 @@
 LABORTARIAN SCORPIONS
 
 +++++++++++++++++++++++++++++++++++++++++
-# Assigned By: Sir Faheem 
-# Developed By: M Saad
-                          &
+# Assigned By: Sir Faheem Akhtar 
+# Developed By: M Saad &
 # LABORTARIAN SCORPIONS
 +++++++++++++++++++++++++++++++++++++++++
 # Other Developers
