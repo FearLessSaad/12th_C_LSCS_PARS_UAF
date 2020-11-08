@@ -1,6 +1,6 @@
 # LABORATORY COLLEGE (Boys & Girls) PARS, University of Agriculture Faisalabad
 
-[![LSCS](images.png)
+![LSCS](images.png)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
